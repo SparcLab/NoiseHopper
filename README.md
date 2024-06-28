@@ -7,3 +7,13 @@ In this work, we have proposed an improved covert channel to exfiltrate data fro
 Link1: https://ieeexplore.ieee.org/abstract/document/10545402
 
 Link2: https://www.researchgate.net/publication/381234280_NoiseHopper_Emission_Hopping_Air-Gap_Covert_Side_Channel_with_Lower_Probability_of_Detection
+
+# FastPwmPin Library
+
+We have used this Arduino library to generate a fast PWM signal on pin 10 of Arduino UNO. You need to download this library and keep in your project folder to run our code successfully.
+Link: https://github.com/maxint-rd/FastPwmPin
+
+# Demo Video
+
+[![YouTube](http://i.ytimg.com/vi/v8LqhLB0fwU/hqdefault.jpg)](https://www.youtube.com/watch?v=v8LqhLB0fwU)
+
