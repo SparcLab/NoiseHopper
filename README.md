@@ -2,7 +2,7 @@
 
 In this work, we have proposed an improved covert channel to exfiltrate data from air-gapped devices, formed by pulse width modulation (PWM) controlled electromagnetic emission with spectrum covertness rendered by frequency hopping. It is covert not only in the execution domain (malicious code) but also in the RF spectrum (it looks like noise or spurious peaks have been added to the existing RF spectrum), making it difficult to detect. Our proposed channel can penetrate through a wall and we have transmitted MNIST dataset images (at a 10 kbps rate) using the covert channel to show its efficacy.
 
-The sample Arduino code file is provided here. For more details on the implementation, please read our paper and watch the hardware demo. Also, we have used the FastPwmPin library to generate a PWM signal. Links for our paper, demo, and this library are given below.
+The sample Arduino code file (***NoiseHopper_sample_code.ino***) is provided here. For more details on the implementation, please read our paper and watch the hardware demo. Also, we have used the FastPwmPin library to generate a PWM signal. Links for our paper, demo, and this library are given below.
 
 # Citation (IEEE Format)
 If you use our work and/or code, please cite our paper as:
